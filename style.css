@@ -1,0 +1,15 @@
+.right-info{
+    text-align: right;
+}
+.well{
+    width: 30%;
+    float: left;
+    margin-right: 15px;
+    margin-left: 20px;
+}
+.mainform{
+    padding: 15px;
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}

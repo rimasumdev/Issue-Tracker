@@ -74,8 +74,3 @@ const fetchIssues = () => {
 
 }
 
-function totalIssue(id) {
-  const issues = JSON.parse(localStorage.getItem('issues'));
-  document.getElementById(id).textContent = issues.length + " ";
-}
-
